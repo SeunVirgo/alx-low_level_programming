@@ -30,6 +30,7 @@ int main(int argc, char *argv[])
 		if (count < bytes - 1)
 			printf(" ");
 		else
+			printf("\n");
 	}
 	return (0);
 }
