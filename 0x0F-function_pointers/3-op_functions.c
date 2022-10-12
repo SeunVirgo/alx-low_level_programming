@@ -4,7 +4,7 @@
  *@a: integer.
  *@b: integer.
  *
- *Return: sum
+ *Return: sum.
  */
 int op_add(int a, int b)
 {
@@ -38,7 +38,7 @@ int op_mul(int a, int b)
 /**
  *op_div - returns the quotient of 2 numbers.
  *@a: integer.
- *@b: integer.
+ *@b:integer.
  *
  *Return: quotient.
  */
